@@ -15,7 +15,7 @@
   width: auto;
   margin: auto;
   display: block;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 </style>

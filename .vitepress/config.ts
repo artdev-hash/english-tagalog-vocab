@@ -59,18 +59,6 @@ async function config() {
           link: "/",
         },
         {
-          text: "🔖 ",
-          link: "/tags",
-        },
-        {
-          text: "📃 ",
-          link: "/archives",
-        },
-        {
-          text: "👨‍💻 Developer",
-          link: "/dev",
-        },
-        {
           text: "📦 ETC",
           link: "/work",
         }

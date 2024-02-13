@@ -1,5 +1,5 @@
 <template>
-   <img alt="@arthurdev" class="heroiimg" src="/posts/src/assets/img/ccsbatch124.png" width="200" height="200" />
+   <img alt="@arthurdev" class="heroiimg" src="/posts/src/assets/img/ccsbatch124.png" width="120" height="120" />
 </template>
 
 <style scoped>

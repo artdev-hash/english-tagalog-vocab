@@ -4,7 +4,7 @@ async function config() {
   return {
     base: '/english-tagalog-vocab/',
     lang: "en-US",
-    title: "English - Tagalog",
+    title: "English-Tagalog",
     logo: "ccsb124.ico",
     description: "Contact Center Service Batch 1 24",
     head: [
@@ -42,7 +42,7 @@ async function config() {
     lastUpdated: false,
     themeConfig: {
       // repo: pc-upgrade-and-repair/home",
-      logo: "pcnerd.ico",
+      logo: "ccsb124.ico",
 
       search: {
         provider: "local",

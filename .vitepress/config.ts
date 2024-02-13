@@ -4,7 +4,7 @@ async function config() {
   return {
     base: '/english-tagalog-vocab/',
     lang: "en-US",
-    title: "",
+    title: "English - Tagalog",
     logo: "ccsb124.ico",
     description: "Contact Center Service Batch 1 24",
     head: [

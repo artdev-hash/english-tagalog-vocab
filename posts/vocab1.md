@@ -3,7 +3,7 @@ title: ENGLISH - TAGALOG
 description: List of English Tagalog Vocabularies
 date: 2024-02-01
 tags:
-  - English Tagalog
+  - English to Tagalog
 ---
 
 ## "english": "ABRIDGE", "tagalog": "paikliin"

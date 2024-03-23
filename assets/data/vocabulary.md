@@ -1,11 +1,3 @@
----
-title: ENGLISH - TAGALOG VOCABULARY
-description: List of English Tagalog Vocabularies
-date: 2024-02-01
-tags:
-  - English to Tagalog
----
-```
 "english": "ABRIDGE", "tagalog": "paikliin"
 "english": "ABRUPT", "tagalog": "bigla, agad-agad"
 "english": "AFFIDAVIT" "tagalog": " panunumpa"
@@ -504,4 +496,5 @@ english": "FABLE", "tagalog": "pabula, kasinungalingan, kataka-taka"
 "english": "SCOWL", "tagalog": "pangunutin ang noo, sumimangot, pasimangutin"
 "english": "SIEZE", "tagalog": "samsamin, sumunggab, samantalahin"
 "english": "SKID", "tagalog": "dumulas"
- ```
+// Add here
+

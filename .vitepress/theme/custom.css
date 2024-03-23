@@ -1,8 +1,8 @@
 @import url("https://cdn.jsdelivr.net/npm/typeface-orbitron@1.1.13/index.min.css");
 :root {
-  --vp-c-brand: #c4a932;
-  --vp-c-brand-light: #645200;
-  --vp-c-brand-dark: #cfaa06;
+  --vp-c-brand: #cfaa06;
+  --vp-c-brand-light: #cab141;
+  --vp-c-brand-dark: #8b7200;
   --vp-c-hover: #212121;
   --vp-c-bg: #bfdcec;
   --vp-c-bg-alpha-with-backdrop: rgba(250, 246, 241, 0.7);

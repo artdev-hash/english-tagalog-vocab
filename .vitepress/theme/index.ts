@@ -1,6 +1,7 @@
 import DefaultTheme from "vitepress/theme";
 import Tags from "./components/Tags.vue";
 import MyLayout from "./components/MyLayout.vue";
+import Thankyou from "./components/thankyou.vue";
 import "./custom.css";
 
 export default {
@@ -11,5 +12,6 @@ export default {
     const { app } = ctx;
     // register global components
     app.component("Tags", Tags);
+    app.component("Thankyou", Thankyou);
   },
 };

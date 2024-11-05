@@ -44,12 +44,16 @@ async function config() {
       docsDir: "/",
       // docsBranch: "master",
       posts: await getPosts(),
-      pageSize: 4,
+      pageSize: 3,
       postLength: await getPostLength(),
       nav: [
         {
           text: "🏠 Home",
           link: "/",
+        },
+        {
+          text: "📃 About",
+          link: "/thankyou",
         }
       ],
       socialLinks: [

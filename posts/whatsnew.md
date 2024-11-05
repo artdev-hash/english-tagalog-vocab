@@ -6,12 +6,23 @@ tags:
   - English to Tagalog
 ---
 
+## The Update 💭
 
-## <b>To Do List 📝</b>
+ - I've already entered 500 English to Tagalog words.
+ - Open for contributors.
+ - Adding more English to Tagalog words is the most necessary.
 
-1. Updating English to Tagalog
-2. Updating of Logo
-3. Open for English to Tagalog Contributions
-4. Adding more Features
+## To Get Started  ☕
+
+ - Go to [GETTING STARTED](gettingstarted.md)
+
+## To Start Contributing  🖊️
+
+
+ - Go to [How to Contribute](contribute.md)
+
+## To Start Learning some English to Tagalog
+
+ - Read [List of English Tagalog Vocabularies](vocab.md)
 
 ----
